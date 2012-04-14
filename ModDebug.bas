@@ -5,3 +5,5 @@ Private Declare Sub OutputDebugString Lib "kernel32" Alias "OutputDebugStringA" 
 Public Sub DebugString(DString As String)
 OutputDebugString DString
 End Sub
+
+//大或高或低后发酵的是发拉三发
