@@ -9,7 +9,7 @@ Begin VB.Form FrmMain
    LinkTopic       =   "Form1"
    ScaleHeight     =   3090
    ScaleWidth      =   4680
-   StartUpPosition =   3  '窗口缺省
+   StartUpPosition =   2  '屏幕中心
 End
 Attribute VB_Name = "FrmMain"
 Attribute VB_GlobalNameSpace = False
